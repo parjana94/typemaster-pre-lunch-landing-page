@@ -355,6 +355,7 @@ span {
     width: 445px;
     height: 480px;
     border-radius: 20px;
+    margin-left: 30px;
   }
   .key-phone-desktop {
     display: block;
